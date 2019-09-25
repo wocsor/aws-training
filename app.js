@@ -71,7 +71,7 @@ http.createServer((req, res) => {
         res.write(error);
     })
 
-}).listen(8080);
+}).listen(80);
 
 //console output
-console.log('Server is running at http://localhost:8080');
+console.log('Server is running at http://localhost:80');
