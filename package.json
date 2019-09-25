@@ -7,5 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wocsor/aws-training.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wocsor/aws-training/issues"
+  },
+  "homepage": "https://github.com/wocsor/aws-training#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
 }
